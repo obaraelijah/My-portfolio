@@ -46,58 +46,52 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>User stories.</p>
+              <p>Front-end design and development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>User flow charts, diagrams.</p>
+              <p>Intergration</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Content strategy.</p>
+              <p>Back-end development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Information architecture.</p>
+              <p>Continuos support and evolution</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Brand and design system development.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Brand and design system development.</p>
+              <p>Quality analysis</p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Database Intergration</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>User stories.</p>
+              <p>MySql</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>User flow charts, diagrams.</p>
+              <p>mongoDB</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Content strategy.</p>
+              <p>Firebase</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Information architecture.</p>
+              <p>POstgreSQL</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Brand and design system development.</p>
-            </li>
+
           </ul>
         </article>
+
 
       </div>
     </section >

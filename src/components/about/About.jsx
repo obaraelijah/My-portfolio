@@ -29,7 +29,7 @@ const About = () => {
             <article className='about__card'>
                  <FiUsers className='about__icon'/>
                 <h5>Clients</h5>
-                <small>5+ clients Locally</small>
+                <small>25+ clients Locally</small>
             </article>
             <article className='about__card'>
                  <VscFolderLibrary className='about__icon'/>
@@ -39,7 +39,8 @@ const About = () => {
           </div>
 
           <p>
-          “I have just over a year of experience as a junior software engineer with First Technology. In my short time there, I've already contributed to over a dozen projects and assisted with managing one project for one of the firm's long-time clients.
+          Dynamic software engineer skilled at developing complex solutions, possessing strong creative thinking skilss, high energy and integrity.I am dedicated to constantly improving tools and infrastructure to maximize productivity and minimize system downtime.
+          I have just over a year of experience as a junior software engineer with First Technology including web development, process automation, algorithms and modelling and database management.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
