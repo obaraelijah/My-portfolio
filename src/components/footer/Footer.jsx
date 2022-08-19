@@ -3,11 +3,12 @@ import './footer.css'
 import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
+import sam from '../../assets/fs.png'
 
 const Footer = () => {
   return (
     <footer>
-      <a href="/" className='footer__logo'>Elijah</a>
+      <a href="/" ><img src={sam} alt="" className='footer__logo' /></a>
 
       <ul className='permalinks'>
         <li><a href="/">Home</a></li>
